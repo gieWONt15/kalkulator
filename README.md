@@ -8,7 +8,7 @@ Aby korzystać z kalkulatora, potrzebujesz jedynie przeglądarki internetowej, k
 ## Instalacja i uruchamianie
 Aby uruchomić kalkulator, sklonuj repozytorium na swój komputer i otwórz plik index.html w przeglądarce internetowej.
 
-_bash_ 
+_bash_  
 **Copy code**
 ```
 git clone https://github.com/nazwa_uzytkownika/kalkulator.git
