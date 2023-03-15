@@ -16,10 +16,10 @@ cd kalkulator
 ## Funkcje kalkulatora
 Kalkulator umożliwia wykonywanie podstawowych działań matematycznych, w tym:
 
-#### Dodawanie
-#### Odejmowanie
-#### Mnożenie
-#### Dzielenie
+Dodawanie
+Odejmowanie
+Mnożenie
+Dzielenie
 Aby wykonać działanie, wpisz liczby i wybierz odpowiedni operator matematyczny za pomocą przycisków na kalkulatorze. Wynik zostanie wyświetlony na ekranie.
 
 ### Autorzy
