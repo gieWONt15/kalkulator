@@ -1,4 +1,4 @@
-## kalkulator
+## Kalkulator
 # Kalkulator HTML5/CSS3/JavaScript
 Ten projekt jest prostym kalkulatorem napisanym w HTML5, CSS3 i JavaScript. Umożliwia on wykonywanie podstawowych działań matematycznych, takich jak dodawanie, odejmowanie, mnożenie i dzielenie.
 
@@ -10,9 +10,10 @@ Aby uruchomić kalkulator, sklonuj repozytorium na swój komputer i otwórz plik
 
 bash
 Copy code
+```
 git clone https://github.com/nazwa_uzytkownika/kalkulator.git
 cd kalkulator
-
+```
 ## Funkcje kalkulatora
 Kalkulator umożliwia wykonywanie podstawowych działań matematycznych, w tym:
 
