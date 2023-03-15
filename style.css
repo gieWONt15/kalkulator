@@ -23,6 +23,15 @@ input {
   border: 2px solid silver;
   outline: none;
 }
+button.bigButton {
+  height: 6.1rem;
+}
+button.clear {
+  background-color: lightsalmon;
+}
+button.result {
+  background-color: lightskyblue;
+}
 button:hover {
   border-color: gray;
 }
