@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+}
+input {
+  display: block;
+  width: 17rem;
+  margin: 0.3rem;
+  border: 1px solid silver;
+  font-size: 2rem;
+  text-align: right;
+}
+.numbers button,
+.operators button {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  margin: 0.1rem;
+  border: 2px solid silver;
+  outline: none;
+}
+button:hover {
+  border-color: gray;
+}
+button:active {
+  font-weight: bold;
+  background-color: silver;
+}
+.leftPanel,
+.rightPanel {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0.3rem;
+}
